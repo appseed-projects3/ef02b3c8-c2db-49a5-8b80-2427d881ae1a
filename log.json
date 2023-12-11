@@ -1,0 +1,23 @@
+{
+    "backend": "api-server-flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "horizon-ui",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "react",
+    "heroku": "0",
+    "pattern": "fullstack",
+    "pro": "0",
+    "task_id": "ef02b3c8-c2db-49a5-8b80-2427d881ae1a",
+    "task_info": "Upload Sources [0%] - 177 files",
+    "task_output": "ef02b3c8-c2db-49a5-8b80-2427d881ae1a.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-12-11-19-43-01",
+    "task_ts_start": "2023-12-11-19-43-00"
+}
